@@ -1,6 +1,6 @@
 {
-    "name": "musonza/chat",
-    "description": "Chat Package for Laravel",
+    "name": "hollogram/chat",
+    "description": "Fork of musonza/chat which adds support for Laravel 9",
     "type": "library",
     "keywords": [
         "laravel",
